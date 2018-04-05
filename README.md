@@ -1,2 +1,3 @@
-# txiaocao.github.io
-小杏仁的blog
+# 闲言碎语
+- 重要的是内容，而不是组织形式
+- 
